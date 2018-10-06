@@ -1,2 +1,2 @@
 # CsharpExercises
-C# exercises solutions
+Solution for exercises published by https://www.exercisescsharp.com/
